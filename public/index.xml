@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Timlah&#39;s Webroll</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Timlah&#39;s Webroll</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 05 Apr 2024 10:14:58 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/posts/contact/</link>
+      <pubDate>Fri, 05 Apr 2024 10:14:58 +0100</pubDate>
+      <guid>http://localhost:1313/posts/contact/</guid>
+      <description>Send me an email at timlah@timlah.com
+Alternatively, check me out on mastodon: https://mastodon.gamedev.place/@Timlah</description>
+    </item>
+  </channel>
+</rss>
