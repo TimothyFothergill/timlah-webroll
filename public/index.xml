@@ -6,15 +6,32 @@
     <description>Recent content on Timlah&#39;s Webroll</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 05 Apr 2024 10:14:58 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 15:40:28 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Webroll</title>
+      <link>http://localhost:1313/webroll/</link>
+      <pubDate>Fri, 05 Apr 2024 15:40:28 +0100</pubDate>
+      <guid>http://localhost:1313/webroll/</guid>
+      <description>You can find more about what I do at the following places:
+Timlah.com, which includes information about all of my projects GitHub, which is where all of my public code lives Here, think of this as a landing point Mastodon, @Timlah, which is where my thinking out loud happens In future I plan to add resources for my future game development studio.
+In the past I ran a social group GeekOut South-West and oversaw the progress of its only sister site, GeekOut West-Midlands.</description>
+    </item>
+    <item>
       <title>Contact Me</title>
-      <link>http://localhost:1313/posts/contact/</link>
+      <link>http://localhost:1313/contact-me/</link>
+      <pubDate>Fri, 05 Apr 2024 15:30:51 +0100</pubDate>
+      <guid>http://localhost:1313/contact-me/</guid>
+      <description>Send me an email
+Alternatively, check me out on mastodon: @Timlah</description>
+    </item>
+    <item>
+      <title>Static Websites</title>
+      <link>http://localhost:1313/posts/static-websites/</link>
       <pubDate>Fri, 05 Apr 2024 10:14:58 +0100</pubDate>
-      <guid>http://localhost:1313/posts/contact/</guid>
-      <description>Send me an email at timlah@timlah.com
-Alternatively, check me out on mastodon: https://mastodon.gamedev.place/@Timlah</description>
+      <guid>http://localhost:1313/posts/static-websites/</guid>
+      <description>I decided to write this website in as quick a time as possible. I wanted to make something minimalist that I could use to point readers to different places on the web where I reside.
+To make this website, I used Hugo. If you have a need for a simple website quick at a reasonable price, reach out to me by email or Mastodon and talk to me about your needs.</description>
     </item>
   </channel>
 </rss>
