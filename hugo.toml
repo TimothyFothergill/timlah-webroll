@@ -2,3 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-gb'
 title = "Timlah's Webroll"
 theme = 'PaperMod'
+sectionPagesMenu = 'main'
+
+[params]
+    ShowBreadCrumbs = true
